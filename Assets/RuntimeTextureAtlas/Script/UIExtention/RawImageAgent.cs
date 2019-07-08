@@ -9,8 +9,6 @@ namespace RuntimeTextureAtlas
 	/// </summary>
 	public class RawImageAgent : SubTextureAgent
 	{
-		
-
 		protected override Vector2Int GetSize()
 		{
 			var image = GetComponent<RawImage>();
