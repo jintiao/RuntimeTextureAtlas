@@ -19,7 +19,8 @@ RTA pack all five texture into a rendertexture:
 ![rendertexture](/Image/rendertexture.png)
 
 4 drawcall saved.
-| without RTA   | with RTA      |
-| ------------- |:-------------:|
-| ![without RTA](/Image/drawcall-without.png) | ![with RTA](/Image/drawcall-with.png) |
+
+|                without RTA                  |                   with RTA                 |
+| ------------------------------------------- | -------------------------------------------|
+| ![without RTA](/Image/drawcall-without.png) | ![with RTA](/Image/drawcall-with.png)      |
 
